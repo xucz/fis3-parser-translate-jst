@@ -1,0 +1,23 @@
+{
+  "name": "fis3-parser-translate-jst",
+  "version": "0.0.1",
+  "description": "jst parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xucz/fis3-parser-translate-jst.git"
+  },
+  "keywords": [
+    "fis3",
+    "jst"
+  ],
+  "author": "xuchaozheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xucz/fis3-parser-translate-jst/issues"
+  },
+  "homepage": "https://github.com/xucz/fis3-parser-translate-jst#readme"
+}
