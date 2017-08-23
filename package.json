@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-translate-jst",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "jst parser",
   "main": "index.js",
   "scripts": {
