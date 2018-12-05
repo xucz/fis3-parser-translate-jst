@@ -38,5 +38,3 @@ main.jst
     <%=Hello({name:xu})%>
   </div>
 ```
-## demo项目地址
-[https://github.com/xucz/jst-helloworld](https://github.com/xucz/jst-helloworld)
